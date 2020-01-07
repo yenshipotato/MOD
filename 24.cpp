@@ -13,7 +13,6 @@ unsigned long long m(unsigned long long a,unsigned long long n,unsigned long lon
     unsigned long long t;
     
     if(n==0) return 1%b;
-    if(n==1) return a%b;
     
     t=m(a,n/2,b);
     t=t*t%b;
