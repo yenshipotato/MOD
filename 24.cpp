@@ -4,7 +4,7 @@ using namespace std;
 unsigned long long m(unsigned long long a,unsigned long long n,unsigned long long b);
 
 int main(){
-	cout<<m(6699,696969696969696969,6969)<<"\n";
+	cout<<m(4488,484848484848484848,2323)<<"\n";
 	return 0;
 }
 
